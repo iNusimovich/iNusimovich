@@ -1,6 +1,6 @@
 ### Hi there, I'm Ignacio Nusimovich - aka [IN-Studio] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
+![Website](https://img.shields.io/website?down_color=b&down_message=UP&label=IN%20studio&logo=About.me&logoColor=black&style=for-the-badge&up_color=blue&up_message=UP&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fignacio-nusimovich%2F)
 ![Twitter URL](https://img.shields.io/twitter/url?color=%230A66C2&label=LINKEDIN&logo=LINKEDIN&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fignacio-nusimovich%2F)
 ![Twitter URL](https://img.shields.io/twitter/url?color=%23FFB80B&label=BEHANCE&logo=behance&style=for-the-badge&url=https%3A%2F%2Fwww.behance.net%2Fnachonusimovich)
 
