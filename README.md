@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 ![Twitter URL](https://img.shields.io/twitter/url?color=%230A66C2&label=LINKEDIN&logo=LINKEDIN&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fignacio-nusimovich%2F)
-![Twitter URL](https://img.shields.io/twitter/url?color=%231769FF&label=BEHANCE&logo=behance&style=for-the-badge&url=https%3A%2F%2Fwww.behance.net%2Fnachonusimovich)
+![Twitter URL](https://img.shields.io/twitter/url?color=%23FFB80B&label=BEHANCE&logo=behance&style=for-the-badge&url=https%3A%2F%2Fwww.behance.net%2Fnachonusimovich)
 
 ## I'm a Front-End Dev, Graphic Designer and Artist!!
 
