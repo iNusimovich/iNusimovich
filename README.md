@@ -4,7 +4,7 @@
 ![Twitter URL](https://img.shields.io/twitter/url?color=%230A66C2&label=LINKEDIN&logo=LINKEDIN&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fignacio-nusimovich%2F)
 ![Twitter URL](https://img.shields.io/twitter/url?color=%23FFB80B&label=BEHANCE&logo=behance&style=for-the-badge&url=https%3A%2F%2Fwww.behance.net%2Fnachonusimovich)
 
-## I'm a Front-End Dev, Graphic Designer and Artist!!
+## I'm a Front-End Web-Dev, Graphic Designer and Artist!!
 
 - 🌱 I’m currently learning React.js and Next.js
 - 👯 I’m looking to collaborate with other Developers and UX Designers
